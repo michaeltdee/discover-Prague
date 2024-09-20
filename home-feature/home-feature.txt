@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Discover New York City</title>
+ <style>
+ body {
+ font-family: Arial, sans-serif;
+ background-color: #f0f8ff;
+ color: #333;
+ }
+ h1 {
+ text-align: center;
+ color: #006994;
+ }
+ p {
+ text-align: justify;
+ margin: 20px;
+ }
+ </style>
+</head>
+<body>
+ <h1>Welcome to New York City</h1>
+ <p>Discover the iconic landmarks, rich culture, and vibrant 
+streets of the Big Apple.</p>
+</body>
+</html>
